@@ -2,6 +2,7 @@
 ### Hello World, I'm Washington Costa 👋 
 ---
 ![Washington GitHub stats](https://github-readme-stats.vercel.app/api?username=Washington05&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Washington05&hide_progress=true)
 
 ### ⚙ Atualmente Estudando
 
