@@ -17,7 +17,10 @@
 #
 
 ### Sobre Mim
-Meu nome Washington tenho 20 anos atualmente estou cursando, analise e desenvolimento de sistema.
+- Meu nome é Washington tenho 20 Anos.
+- Atualmente Cursando Analise e Desenvolvimento de Sistemas.
+- Trabalho na Area Textil e em busca da minha primeira oportunidade na area de TI.
+- Sou entusiasta e apaixonado por Tecnlogia e Computadores.
 
 ### Contato
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/washington-costa-793b20265)
