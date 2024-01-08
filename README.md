@@ -19,7 +19,7 @@
 ### Sobre Mim
 - Meu nome é Washington tenho 20 Anos.
 - Atualmente Cursando Analise e Desenvolvimento de Sistemas.
-- Trabalho na Area Textil e em busca da minha primeira oportunidade na area de TI.
+- Trabalho na Area Têxtil e em busca da minha primeira oportunidade na area de TI.
 - Sou entusiasta e apaixonado por Tecnlogia e Computadores.
 
 ### Contato
