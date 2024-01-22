@@ -29,6 +29,8 @@
 )](https://twitter.com/devCosta_)
 
 <a href="mailto:costasantana980@gmail.com">
-[![Blog](https://img.shields.io/badge/costasantana980@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
+  [![Blog](https://img.shields.io/badge/costasantana980@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+  
 </a>
 
