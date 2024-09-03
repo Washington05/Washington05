@@ -14,7 +14,6 @@
 #
 
 ### Sobre Mim
-- Meu nome é Washington tenho 20 Anos.
 - Atualmente Cursando Analise e Desenvolvimento de Sistemas.
 - Entusiasta e apaixonado por Tecnlogia e Computadores.
 
