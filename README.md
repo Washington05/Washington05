@@ -19,8 +19,6 @@
 
 ### Contato
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/washington-costa-793b20265)
-[![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/devCosta_)
 
 <a href="mailto:costasantana980@gmail.com">
   
