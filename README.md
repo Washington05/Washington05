@@ -14,7 +14,7 @@
 #
 
 ### Sobre Mim
-- Atualmente Cursando Analise e Desenvolvimento de Sistemas.
+- Atualmente Cursando Sistemas Da Informação.
 - Entusiasta e apaixonado por Tecnlogia e Computadores.
 
 ### Contato
